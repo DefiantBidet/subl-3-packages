@@ -1,0 +1,20 @@
+<snippet>
+	<content>
+<![CDATA[suite( '${1:suiteName}', function () {
+
+    ${2:// suiteSetup( function ( done ){${3}done();\});}
+
+    ${4:// setup( function ( done ){${5}done();\});}
+
+    ${6:// teardown( function ( done ){${7}done();\});}
+
+    ${8:// suiteTeardown( function ( done ){${9}done();\});}
+
+	${10}
+});]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>suite</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

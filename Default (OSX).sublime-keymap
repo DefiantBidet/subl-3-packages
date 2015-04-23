@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["super+alt+up"],
+        "command": "duplicate_line"
+    },
+    {
+      "keys": ["super+alt+down"],
+      "command": "dependents",
+      "args": {"root": "~/Workspaces"}
+    }
+]

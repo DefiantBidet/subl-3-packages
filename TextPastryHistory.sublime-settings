@@ -1,0 +1,180 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 1"
+				},
+				"command": "text_pastry_step",
+				"text": "0 1"
+			},
+			"key": "27a3f1a3d555387ab7bf589ca716c295",
+			"label": "0 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "queue-0 1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "queue-0 1"
+			},
+			"key": "a62844e6574ac72381c839801b443289",
+			"label": "queue-0 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "queue-1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "queue-1"
+			},
+			"key": "e3c0ff0096fbdf70b7bf24e0e5e49643",
+			"label": "queue-1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "cloud-1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "cloud-1"
+			},
+			"key": "e2b0368bfd227876326f655397486040",
+			"label": "cloud-1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "lessons-bubble-0",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "lessons-bubble-0"
+			},
+			"key": "0531d2c52575f26df04cb34aacb97f1e",
+			"label": "lessons-bubble-0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "lessons-bubble-1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "lessons-bubble-1"
+			},
+			"key": "0d7f8b3053b7f57fd401df677e5afadb",
+			"label": "lessons-bubble-1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "a",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "a"
+			},
+			"key": "0cc175b9c0f1b6a831c399e269772661",
+			"label": "a"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\\i(a,c)",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\i(a,c)"
+			},
+			"key": "4982ebfaa0ba09051a221464757fec3f",
+			"label": "\\i(a,c)"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "abc",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "abc"
+			},
+			"key": "900150983cd24fb0d6963f7d28e17f72",
+			"label": "abc"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "a,b,c",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "a,b,c"
+			},
+			"key": "a44c56c8177e32d3613988f4dba7962e",
+			"label": "a,b,c"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "/ia",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "/ia"
+			},
+			"key": "c7c79d281a2b61f6a7584117d87e9de5",
+			"label": "/ia"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "1"
+		},
+		"command": "text_pastry_step",
+		"text": "1"
+	}
+}

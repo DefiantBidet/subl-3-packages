@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>Globals</string>
+    <key>scope</key>
+    <string></string>
+    <key>settings</key>
+    <dict>
+        <key>shellVariables</key>
+        <array>
+            <dict>
+                <key>name</key>
+                <string>TM_FULLNAME</string>
+                <key>value</key>
+                <string><![CDATA[James Dean "DefiantBidet"]]></string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>TM_EMAIL</string>
+                <key>value</key>
+                <string><![CDATA[james@beaffinitive.com]]></string>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>TM_ORGANIZATION_NAME</string>
+                <key>value</key>
+                <string><![CDATA[Shoptology - A Project:Worldwide Agency]]></string>
+            </dict>
+        </array>
+    </dict>
+</dict>
+</plist>

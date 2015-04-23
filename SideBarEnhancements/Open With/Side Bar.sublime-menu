@@ -1,0 +1,61 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			//application 1
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/Applications/Adobe Photoshop CS6/Adobe Photoshop CS6.app/", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								}
+			},
+
+			//separator
+			{"caption":"-"},
+
+			//application Chrome
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+                                    "application": "/Applications/Google Chrome.app/",
+									"extensions":".*" //any file with extension
+								}
+			},
+
+			{"caption":"-"},
+            // markdown
+            {
+                "caption": "Mou",
+                "id": "side-bar-files-open-with-mou",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "/Applications/Mou.app/",
+                                    "extensions":"md|markdown|mdown" //any file with extension
+                                }
+            },
+            {
+                "caption": "Atom",
+                "id": "side-bar-files-open-with-atom",
+
+                "command": "side_bar_files_open_with",
+                "args": {
+                                    "paths": [],
+                                    "application": "/Applications/Atom.app/",
+                                    "extensions":"md|markdown|mdown" //any file with extension
+                                }
+            },
+		]
+	}
+]

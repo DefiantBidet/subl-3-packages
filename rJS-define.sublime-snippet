@@ -1,0 +1,31 @@
+<snippet>
+    <content>
+<![CDATA[
+define([
+    '${1:dependency}'
+],
+function(${2}) {
+
+    'use strict';
+
+    /**
+     * ${TM_FILENAME/(\w*)(.js)/\u$1/g}
+     * ${3:The ${TM_FILENAME/(\w*)(.js)/\u$1/g} module.}
+     * @author ${4:$TM_FULLNAME}
+    **/
+
+    // create a new modules
+    var ${TM_FILENAME/(\w*)(.js)/\u$1/g} = function ${TM_FILENAME/(\w*)(.js)/\u$1/g} () {
+        $5
+        return this;
+    };
+
+    return ${TM_FILENAME/(\w*)(.js)/\u$1/g};
+});
+]]>
+    </content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>define</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
