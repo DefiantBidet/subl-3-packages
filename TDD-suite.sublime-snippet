@@ -2,13 +2,13 @@
 	<content>
 <![CDATA[suite( '${1:name of test suite}', function () {
 
-    ${2:// before( function (){ ${3:/*write suite setup*/} \});}
+    ${2:// suiteSetup( function (){ ${3:/*write suite setup*/} \});}
 
-    ${4:// beforeEach( function (){ ${5:/*write test setup*/} \});}
+    ${4:// setup( function (){ ${5:/*write test setup*/} \});}
 
-    ${6:// afterEach( function (){ ${7:/*write suite teardown*/} \});}
+    ${6:// teardown( function (){ ${7:/*write suite teardown*/} \});}
 
-    ${8:// after( function (){ ${9:/*write test teardown*/} \});}
+    ${8:// suiteTeardown( function (){ ${9:/*write test teardown*/} \});}
 
     ${10: // write tests}
 });]]>
