@@ -1,11 +1,12 @@
 <snippet>
     <content>
-<![CDATA[test( '${1:name of test}', function () {
-    ${2:// assert.eventually.ok( false, 'false should be true');}
+<![CDATA[test( '${1:name of async test}', function ( ${2:done} ) {
+    ${3:// assert.ok( false, 'false should be true');}
+    ${4:done();}
 });]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>test</tabTrigger>
+    <tabTrigger>test-async</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.js</scope>
 </snippet>

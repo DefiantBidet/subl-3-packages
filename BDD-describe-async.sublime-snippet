@@ -1,0 +1,18 @@
+<snippet>
+    <content>
+<![CDATA[describe( '${1:describes an async test suite}', function () {
+
+    ${2:// before( function ( done ){ ${3:done();} \});}
+
+    ${4:// beforeEach( function ( done ){ ${5:done();} \});}
+
+    ${6:// afterEach( function ( done ){ ${7:done();} \});}
+
+    ${8:// after( function ( done ){ ${9:done();} \});}
+
+    ${10: // write tests}
+});]]>
+    </content>
+    <tabTrigger>describe-async</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

@@ -2,15 +2,15 @@
     <content>
 <![CDATA[describe( '${1:describes a test suite}', function () {
 
-    ${2:// before( function ( done ){${3}done();\});}
+    ${2:// before( function (){ ${3:/*write suite setup*/} \});}
 
-    ${4:// beforeEach( function ( done ){${5}done();\});}
+    ${4:// beforeEach( function (){ ${5:/*write test setup*/} \});}
 
-    ${6:// afterEach( function ( done ){${7}done();\});}
+    ${6:// afterEach( function (){ ${7:/*write suite teardown*/} \});}
 
-    ${8:// after( function ( done ){${9}done();\});}
+    ${8:// after( function (){ ${9:/*write test teardown*/} \});}
 
-    ${10}
+    ${10: // write tests}
 });]]>
     </content>
     <tabTrigger>describe</tabTrigger>

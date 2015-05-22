@@ -1,10 +1,11 @@
 <snippet>
     <content>
-<![CDATA[it( '${1:describes a test}' , function () {
-    ${2:// expect( false ).to.eventually.be.true; }
+<![CDATA[it( '${1:describes an async test}' , function ( ${2:done} ) {
+    ${3:// expect( false ).to.be.true; }
+    ${4:done();}
 });]]>
     </content>
-    <tabTrigger>it</tabTrigger>
+    <tabTrigger>it-async</tabTrigger>
     <scope>source.js</scope>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <!-- <tabTrigger>hello</tabTrigger> -->
