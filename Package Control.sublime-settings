@@ -1,20 +1,26 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"ActionScript 3",
+		"Advanced CSV",
 		"Ant",
 		"Ant Color Scheme",
 		"ApacheConf.tmLanguage",
+		"Babel",
 		"Backbone.js",
 		"Base16 Color Schemes",
 		"Better CoffeeScript",
 		"Build Ant Target",
 		"CoffeeScript",
 		"Color Highlighter",
+		"DashDoc",
+		"DistractionFreeWindow",
 		"DocBlockr",
+		"Docker Based Build Systems",
 		"Dockerfile Syntax Highlighting",
 		"Dotfiles Syntax Highlighting",
 		"eco",
@@ -23,11 +29,12 @@
 		"Emmet",
 		"FileBrowser",
 		"GitGutter",
-		"GoSublime",
 		"Handlebars",
 		"Hyperion for gettext",
 		"Indent XML",
 		"JSCS-Formatter",
+		"JsFormat",
+		"JSX",
 		"Lazy Backbone.js",
 		"LESS",
 		"Markdown Preview",
@@ -47,16 +54,18 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
 		"Super Ant",
 		"Syntax Highlighting for Sass",
 		"Text Pastry",
 		"Theme - Soda",
 		"URLEncode",
-		"VAlign",
-		"Web Inspector 3"
+		"Vagrant",
+		"VAlign"
 	]
 }

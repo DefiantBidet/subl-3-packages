@@ -33,7 +33,22 @@
                 "ignore": "",
                 "warnings": ""
             },
+            "eslint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jscs": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "jshint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "jsxhint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
@@ -60,13 +75,14 @@
             "windows": []
         },
         "rc_search_limit": 3,
-        "shell_timeout": 10,
+        "shell_timeout": 20,
         "show_errors_on_save": true,
         "show_marks_in_minimap": true,
         "syntax_map": {
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "javascript (babel)": "javascript",
             "php": "html",
             "python django": "python"
         },

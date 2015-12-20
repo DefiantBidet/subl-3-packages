@@ -14,6 +14,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"SublimeLinter-jsxhint",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -22,15 +23,16 @@
 	],
 	"index_exclude_patterns":
 	[
-		"/Users/jdean/Workspaces/Shoptology/nlmg/design*",
+		"/Users/jdean/Code/Shoptology/nlmg/api/node_modules*",
+		"/Users/jdean/Code/Shoptology/nlmg/native*",
+		"/Users/jdean/Code/Shoptology/nlmg/api--node-swagger-express-mongodb*",
+		"/Users/jdean/Code/Shoptology/nlmg/admin-mongorilla*",
+		"/Users/jdean/Code/Shoptology/nlmg/styleguide*",
+		"/Users/jdean/Code/Shoptology/nlmg/web*",
+		"node_modules*",
+		"/Users/jdean/Code/Shoptology/nlmg/design*",
 		"*.log",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/styleguide*",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/native*",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/web-static*",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/api--node-swagger-express-mongodb*",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/admin-mongorilla*",
-		"/Users/jdean/Workspaces/Shoptology/nlmg/web*",
-		"node_modules*"
+		"/Users/jdean/Code/Shoptology/nlmg/web-static*"
 	],
 	"rulers":
 	[
