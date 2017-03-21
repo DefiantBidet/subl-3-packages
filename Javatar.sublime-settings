@@ -1,0 +1,34 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u121":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/bin",
+			"update": "121",
+			"version": "1.8.0"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/DefiantBidet/Code/Java/algorithms_1"
+				}
+			]
+		},
+		"5":
+		{
+			"folders":
+			[
+				{
+					"path": "/Users/DefiantBidet/Code/Java/HelloWorld"
+				}
+			]
+		}
+	}
+}

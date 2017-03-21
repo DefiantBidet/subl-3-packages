@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+<![CDATA[suite('${1:describes a test suite}', () => {
+
+  ${2:// suiteSetup(done => {${3:/*write suite setup*/}done();}};
+  ${4:// setup(done => {${5:/*write suite setup*/}done();}};
+  ${6:// teardown(done => {${7:/*write suite setup*/}done();}};
+  ${8:// suiteTeardown(done => {${9:/*write suite setup*/}done();}};
+
+  ${10:// test('', done => {/*${11:write tests*/}done();}};
+});]]>
+    </content>
+    <tabTrigger>suite-es6-async</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

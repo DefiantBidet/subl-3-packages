@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+<![CDATA[it('${1:describes an async test}', done => {
+  ${2:// expect( false ).to.be.true; }
+  done();
+});]]>
+    </content>
+    <tabTrigger>it-es6-async</tabTrigger>
+    <scope>source.js</scope>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

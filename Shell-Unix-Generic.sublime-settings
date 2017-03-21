@@ -17,7 +17,6 @@
 		".git",
 		".gitattributes",
 		".gitconfig",
-		".gitignore",
 		".gitmodules",
 		".hushlogin",
 		".inputrc",

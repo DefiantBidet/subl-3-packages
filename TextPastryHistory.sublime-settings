@@ -237,6 +237,413 @@
 			{
 				"args":
 				{
+					"text": "Foo, Bar, Baz",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Foo, Bar, Baz"
+			},
+			"key": "0acff5fcfb36945deb3a71fff679ba6e",
+			"label": "Foo, Bar, Baz"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Foo Bar Baz ?!??!",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Foo Bar Baz ?!??!"
+			},
+			"key": "521b43b2e605f4091b0cf9737e4ee105",
+			"label": "Foo Bar Baz ?!??!"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "foo bar baz",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "foo bar baz"
+			},
+			"key": "ab07acbb1e496801937adfa772424bf7",
+			"label": "foo bar baz"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "main foo bar baz 404",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "main foo bar baz 404"
+			},
+			"key": "78955a1dc9680b7d3c699e3bf7912aeb",
+			"label": "main foo bar baz 404"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Percolates Yes|No",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Percolates Yes|No"
+			},
+			"key": "d9a306c46e15296845f7ae152ab3f99f",
+			"label": "Percolates Yes|No"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Yes, No",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Yes, No"
+			},
+			"key": "12a9ae9a8a6ed0454e7c9db6bb359410",
+			"label": "Yes, No"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "yes no",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "yes no"
+			},
+			"key": "45ae1a4ce1e8b30b8b1c907dc68a5691",
+			"label": "yes no"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Yes|No",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Yes|No"
+			},
+			"key": "88169a273d258709d2d239977c4b36b9",
+			"label": "Yes|No"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Yes No",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Yes No"
+			},
+			"key": "f86237f8b4cf1454d46afe0d2a498163",
+			"label": "Yes No"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "275x 255x"
+				},
+				"command": "text_pastry_step",
+				"text": "275x 255x"
+			},
+			"key": "b14d94a886a0588b73eb8390b0b3971d",
+			"label": "275x 255x"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "row column"
+			},
+			"key": "8f518b98475197e120adc0bd41019293",
+			"label": "row column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row|column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "row|column"
+			},
+			"key": "8048d2c922df489c5ca7892d96fc043c",
+			"label": "row|column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row, column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "row, column"
+			},
+			"key": "80088492273b7c13d74c4d1f9630f8a0",
+			"label": "row, column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%s row col",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%s row col"
+			},
+			"key": "30c0f37e44b9be202a08d7ccff8c2392",
+			"label": "%s row col"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row col",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "row col"
+			},
+			"key": "e1c16107e6c474df1b31c6ae69aae5ea",
+			"label": "row col"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%s row column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%s row column"
+			},
+			"key": "757dfbc2e108baa91414aba54035001c",
+			"label": "%s row column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%srow %scolumn",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%srow %scolumn"
+			},
+			"key": "b7881cf1f742da21c117e0cc1e310d3e",
+			"label": "%srow %scolumn"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%s row %s column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%s row %s column"
+			},
+			"key": "281e58a4790b786a1413cf0c9e9b0bd3",
+			"label": "%s row %s column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%srow column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%srow column"
+			},
+			"key": "5c8ced4032c73e20ad0a2f2f7eb1a3e4",
+			"label": "%srow column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%s, row column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%s, row column"
+			},
+			"key": "05ec8a5ee5ea4fc71d429d7acca2714a",
+			"label": "%s, row column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "row"
+			},
+			"key": "f1965a857bc285d26fe22023aa5ab50d",
+			"label": "row"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "column",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "column"
+			},
+			"key": "1afd32818d1c9525f82aff4c09efd254",
+			"label": "column"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true,
+					"regex": true,
+					"separator": "co"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "r co"
+			},
+			"key": "5a16d77078813a6a2b2aa707d7a71ef2",
+			"label": "r co"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true,
+					"regex": true,
+					"separator": "c"
+				},
+				"command": "text_pastry_insert_text",
+				"text": "r c"
+			},
+			"key": "552490b408288fabe37a8de8ac1dcb87",
+			"label": "r c"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "n c",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "n c"
+			},
+			"key": "0ab1e259050216f188df858781cfc5dd",
+			"label": "n c"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "\n'row' 'col'",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\n'row' 'col'"
+			},
+			"key": "4d0635dc4b332f62511342abde276037",
+			"label": "\n'row' 'col'"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "High Low",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "High Low"
+			},
+			"key": "daa0579562fe8a021f53ae41e81b29f3",
+			"label": "High Low"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "%s upper lower",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "%s upper lower"
+			},
+			"key": "b162b69fed083328f9872ae12e907b21",
+			"label": "%s upper lower"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Hi Lo",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Hi Lo"
+			},
+			"key": "c3d9db6371b1fa159c26de9bb0e2b128",
+			"label": "Hi Lo"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "1"
 				},
 				"command": "text_pastry_step",
@@ -244,6 +651,73 @@
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
 			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": " Min Max",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": " Min Max"
+			},
+			"key": "79b10b928d847b909f68fd3864712e11",
+			"label": " Min Max"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Min Max",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Min Max"
+			},
+			"key": "ad02816aeb9ce81d71e08df202aea6e5",
+			"label": "Min Max"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 6 0 6 0 6"
+				},
+				"command": "text_pastry_step",
+				"text": "0 6 0 6 0 6"
+			},
+			"key": "fddaf5ac0924053985ce032e92a672b5",
+			"label": "0 6 0 6 0 6"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 6"
+				},
+				"command": "text_pastry_step",
+				"text": "0 6"
+			},
+			"key": "ce85cff83007a3da6e105fcc033035b0",
+			"label": "0 6"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 6 0"
+				},
+				"command": "text_pastry_step",
+				"text": "0 6 0"
+			},
+			"key": "7d6f74ec7be8774f3c3ac10f51f33d19",
+			"label": "0 6 0"
 		},
 		{
 			"data":

@@ -1,11 +1,11 @@
 <snippet>
     <content>
-<![CDATA[test( '${1:name of test}', function () {
-    ${2:// assert.eventually.ok( false, 'false should be true');}
+<![CDATA[test('${1:name of test}', () => {
+  ${2:// assert.eventually.ok( false, 'false should be true');}
 });]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>test</tabTrigger>
+    <tabTrigger>test-es6-sync</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.js</scope>
 </snippet>

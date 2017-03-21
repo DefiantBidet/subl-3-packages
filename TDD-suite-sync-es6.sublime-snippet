@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+<![CDATA[suite('${1:describes a test suite}', () => {
+
+  ${2:// suiteSetup(() => {${3:/*write suite setup*/}}};
+  ${4:// setup(() => {${5:/*write suite setup*/}}};
+  ${6:// teardown(() => {${7:/*write suite setup*/}}};
+  ${8:// suiteTeardown(() => {${9:/*write suite setup*/}}};
+
+  ${10:// test('', ()=>{/*${10:write tests*/}}};
+});]]>
+    </content>
+    <tabTrigger>suite-es6-sync</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

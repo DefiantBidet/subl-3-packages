@@ -1,0 +1,15 @@
+<snippet>
+    <content>
+<![CDATA[describe('${1:describes a test suite}', () => {
+
+  ${2:// before(() => {${3:/*write suite setup*/}}};
+  ${4:// beforeEach(() => {${5:/*write suite setup*/}}};
+  ${6:// afterEach(() => {${7:/*write suite setup*/}}};
+  ${8:// after(() => {${9:/*write suite setup*/}}};
+
+  ${10:// it('', () => {/*${11:write tests*/}}};
+});]]>
+    </content>
+    <tabTrigger>describe-es6-sync</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

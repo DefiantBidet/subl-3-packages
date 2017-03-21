@@ -4,7 +4,7 @@
     ${2:// expect( false ).to.eventually.be.true; }
 });]]>
     </content>
-    <tabTrigger>it</tabTrigger>
+    <tabTrigger>it-sync</tabTrigger>
     <scope>source.js</scope>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <!-- <tabTrigger>hello</tabTrigger> -->
