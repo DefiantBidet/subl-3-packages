@@ -4,7 +4,8 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
+    // "color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -14,7 +15,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeLinter-jsxhint",
+		"JSCS-Formatter",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -36,9 +37,13 @@
 	],
 	"rulers":
 	[
-		72
+		72,
+		80,
+		120
 	],
+	"scroll_past_end": true,
 	"shift_tab_unindent": true,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
+    // "theme": "Soda Dark 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
