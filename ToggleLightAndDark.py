@@ -7,8 +7,8 @@ class ToggleLightAndDark(sublime_plugin.TextCommand):
         light_color = "Packages/User/SublimeLinter/base16-twilight.light (SL).tmTheme"
         light_theme = "Soda Light 3.sublime-theme"
         light_tasks = "Packages/PlainTasks/tasks.hidden-tmTheme"
-        dark_color = "Packages/Monokai Extended/Monokai Extended.tmTheme"
-        dark_theme = "Soda Dark 3.sublime-theme"
+        dark_color = "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme"
+        dark_theme = "Monokai Pro (Filter Octagon).sublime-theme"
         dark_tasks = "Packages/PlainTasks/tasks-monokai.hidden-tmTheme"
 
         current_color = prefs.get("color_scheme")

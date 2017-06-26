@@ -1,4 +1,5 @@
 {
-	"keep_selection": false,
+	"force_uppercase_uuid": true,
+	"repeat_clipboard": true,
 	"repeat_words": true
 }

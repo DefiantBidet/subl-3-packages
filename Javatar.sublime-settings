@@ -7,26 +7,27 @@
 			"update": "121",
 			"version": "1.8.0"
 		},
-		"use": ""
+		"use": "JDK1.8.0u121"
 	},
 	"message_id": 20,
 	"project_data":
 	{
-		"2":
+		"2": null,
+		"3":
 		{
 			"folders":
 			[
 				{
-					"path": "/Users/DefiantBidet/Code/Java/algorithms_1"
+					"path": "/Users/DefiantBidet/Code/testbed/dir_test"
 				}
 			]
 		},
-		"5":
+		"4":
 		{
 			"folders":
 			[
 				{
-					"path": "/Users/DefiantBidet/Code/Java/HelloWorld"
+					"path": "/Users/DefiantBidet/Code/testbed/QOTD"
 				}
 			]
 		}

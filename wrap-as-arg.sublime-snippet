@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:fn}($SELECTION)]]></content>
+    <tabTrigger>WrapAsArg</tabTrigger>
+    <description>Wraps Selection With Function Call</description>
+</snippet>

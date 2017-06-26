@@ -1,5 +1,12 @@
 [
     {
+        "keys": ["alt+shift+f"],
+        "command": "WrapAsArg",
+        "args": {
+            "name": "Packages/User/wrap-as-arg.sublime-snippet"
+        }
+    },
+    {
         "keys": ["super+alt+up"],
         "command": "duplicate_line"
     },
