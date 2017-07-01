@@ -39,6 +39,7 @@
     "monokai_pro_highlight_open_folders": true,
     "monokai_pro_sidebar_font_size": 15,
     "monokai_pro_sidebar_row_padding": 2,
+    "monokai_pro_small_scrollbar": true,
         "rulers":
     [
         72,
