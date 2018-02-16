@@ -9,7 +9,7 @@ class ToggleLightAndDark(sublime_plugin.TextCommand):
         light_tasks = "Packages/PlainTasks/tasks.hidden-tmTheme"
         dark_color = "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme"
         dark_theme = "Monokai Pro (Filter Octagon).sublime-theme"
-        dark_tasks = "Packages/PlainTasks/tasks-monokai-pro-octagon.hidden-tmTheme"
+        dark_tasks = "Packages/User/tasks-monokai-pro-octagon.hidden-tmTheme"
 
         current_color = prefs.get("color_scheme")
         new_color = dark_color if current_color == light_color else light_color

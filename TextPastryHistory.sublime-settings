@@ -726,20 +726,6 @@
 			{
 				"args":
 				{
-					"text": "A",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "A"
-			},
-			"key": "7fc56270e7a70fa81a5935b72eacbe29",
-			"label": "A"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "%s",
 					"threshold": 3
 				},
@@ -950,19 +936,6 @@
 			{
 				"args":
 				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "-1"
 				},
 				"command": "text_pastry_step",
@@ -990,6 +963,103 @@
 			{
 				"args":
 				{
+					"text": "A",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "A"
+			},
+			"key": "7fc56270e7a70fa81a5935b72eacbe29",
+			"label": "A"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "AAAA BBBBB CCCC",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "AAAA BBBBB CCCC"
+			},
+			"key": "14116905709aaa15d23fe101b2977632",
+			"label": "AAAA BBBBB CCCC"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"stop": "4"
+				},
+				"command": "text_pastry_range",
+				"text": "range 4"
+			},
+			"key": "f0d4c48f4ff329c836a0542e5e36bbaa",
+			"label": "range 4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Accepted Declined",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Accepted Declined"
+			},
+			"key": "5c86e608ea85e1eb16dafa6a696f2a82",
+			"label": "Accepted Declined"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "Accepted Rejected"
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter Accepted Rejected"
+			},
+			"key": "1c03f1c55927c8eda069ac4f48e192f2",
+			"label": "filter Accepted Rejected"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Accepted\tRejected",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Accepted\tRejected"
+			},
+			"key": "ea7712b764af9298434c217357508191",
+			"label": "Accepted\tRejected"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "0"
 				},
 				"command": "text_pastry_step",
@@ -997,15 +1067,141 @@
 			},
 			"key": "cfcd208495d565ef66e7dff9f98764da",
 			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "css fonts imgs",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "css fonts imgs"
+			},
+			"key": "5b7b9b923a4a6079f25286899179fa4c",
+			"label": "css fonts imgs"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "styles fonts images",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "styles fonts images"
+			},
+			"key": "4c91f3b037ba366b4b2cd999e5692fd5",
+			"label": "styles fonts images"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "b",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "b"
+			},
+			"key": "92eb5ffee6ae2fec3ad71c777531578f",
+			"label": "b"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "bcd",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "bcd"
+			},
+			"key": "d4b7c284882ca9e208bb65e8abd5f4c8",
+			"label": "bcd"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "b c d",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "b c d"
+			},
+			"key": "ea67af992b577df475a3975dc8a88ed3",
+			"label": "b c d"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "100"
+				},
+				"command": "text_pastry_step",
+				"text": "100"
+			},
+			"key": "f899139df5e1059396431415e770c6dd",
+			"label": "100"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port"
+			},
+			"key": "41eee45fc2acf731f6642808f616d2a1",
+			"label": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "installation running notes",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "installation running notes"
+			},
+			"key": "077a031d0805bdff065feb7baf91f7d1",
+			"label": "installation running notes"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "age zipCode income",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "age zipCode income"
+			},
+			"key": "a68bcacabe62eea6728915bb8b6b5a8c",
+			"label": "age zipCode income"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "0"
+			"text": "age zipCode income",
+			"threshold": 3
 		},
-		"command": "text_pastry_step",
-		"text": "0"
+		"command": "text_pastry_insert_text",
+		"text": "age zipCode income"
 	}
 }

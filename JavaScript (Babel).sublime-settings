@@ -1,8 +1,8 @@
 {
 	"extensions":
 	[
-		"js",
 		"jsx",
-		"sublime-settings"
+		"sublime-settings",
+		"js"
 	]
 }

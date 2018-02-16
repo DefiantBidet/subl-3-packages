@@ -1,9 +1,8 @@
 <snippet>
     <content>
-<![CDATA[test('${1:name of async test}', done => {
-  ${2:// assert.ok( false, 'false should be true');}
-  done();
-});]]>
+<![CDATA[test('${1:name of async test}', async () => {
+  ${2:// await ...}
+);]]>
     </content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>test-es6-async</tabTrigger>
