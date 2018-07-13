@@ -963,20 +963,6 @@
 			{
 				"args":
 				{
-					"text": "A",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "A"
-			},
-			"key": "7fc56270e7a70fa81a5935b72eacbe29",
-			"label": "A"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "AAAA BBBBB CCCC",
 					"threshold": 3
 				},
@@ -998,19 +984,6 @@
 			},
 			"key": "f0d4c48f4ff329c836a0542e5e36bbaa",
 			"label": "range 4"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
 		},
 		{
 			"data":
@@ -1054,19 +1027,6 @@
 			},
 			"key": "ea7712b764af9298434c217357508191",
 			"label": "Accepted\tRejected"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "0"
-				},
-				"command": "text_pastry_step",
-				"text": "0"
-			},
-			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
 		},
 		{
 			"data":
@@ -1192,16 +1152,274 @@
 			},
 			"key": "a68bcacabe62eea6728915bb8b6b5a8c",
 			"label": "age zipCode income"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "11"
+				},
+				"command": "text_pastry_step",
+				"text": "11"
+			},
+			"key": "6512bd43d9caa6e02c990b0a82652dca",
+			"label": "11"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "high low",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "high low"
+			},
+			"key": "941736ca0054e9ac7cb156604e202062",
+			"label": "high low"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4"
+				},
+				"command": "text_pastry_step",
+				"text": "4"
+			},
+			"key": "a87ff679a2f3e71d9181a67b7542122c",
+			"label": "4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "suspect session",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "suspect session"
+			},
+			"key": "a54955d6d0fada11a3baecb280741928",
+			"label": "suspect session"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "-top -bottom",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "-top -bottom"
+			},
+			"key": "2ed5e35ab4d975ba07e396689f942643",
+			"label": "-top -bottom"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "base secondary",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "base secondary"
+			},
+			"key": "c8bee37127d0bf8cf6fa79875d68a875",
+			"label": "base secondary"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "primary secondary tertiary",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "primary secondary tertiary"
+			},
+			"key": "b853f280d58221970186e6499ebb1076",
+			"label": "primary secondary tertiary"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "bar baz bip bop",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "bar baz bip bop"
+			},
+			"key": "b60b16af5d824693fb17948566ee6328",
+			"label": "bar baz bip bop"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "FirstName LastName Email Phone",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "FirstName LastName Email Phone"
+			},
+			"key": "466b6e04dc6c0a5b6ca60ea1af34edc0",
+			"label": "FirstName LastName Email Phone"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "send send send connect",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "send send send connect"
+			},
+			"key": "479b6e20899ef04395ee27dd0bf32f31",
+			"label": "send send send connect"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "A",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "A"
+			},
+			"key": "7fc56270e7a70fa81a5935b72eacbe29",
+			"label": "A"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "60 60 60 23"
+				},
+				"command": "text_pastry_step",
+				"text": "60 60 60 23"
+			},
+			"key": "b7375dd91b3ee2c9cce678eeb6a38135",
+			"label": "60 60 60 23"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "60, 60, 60, 23"
+				},
+				"command": "text_pastry_step",
+				"text": "60, 60, 60, 23"
+			},
+			"key": "cb0bf64412225650d1611807fb1843f8",
+			"label": "60, 60, 60, 23"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "unset none",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "unset none"
+			},
+			"key": "0baf84bac21e17dd0b72aa018926afbd",
+			"label": "unset none"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4 4 4 3"
+				},
+				"command": "text_pastry_step",
+				"text": "4 4 4 3"
+			},
+			"key": "45c3d980b65ae753e1ef33944a6e6fe7",
+			"label": "4 4 4 3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "4,4,4,3"
+				},
+				"command": "text_pastry_step",
+				"text": "4,4,4,3"
+			},
+			"key": "f084cda7fb744f1d2a5ef83d264da9ef",
+			"label": "4,4,4,3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "true|false",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "true|false"
+			},
+			"key": "215c2d45b491f5c815ace782ce450fdf",
+			"label": "true|false"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "age zipCode income",
+			"text": "true|false",
 			"threshold": 3
 		},
 		"command": "text_pastry_insert_text",
-		"text": "age zipCode income"
+		"text": "true|false"
 	}
 }
