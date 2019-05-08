@@ -4,7 +4,7 @@
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Octagon) (SL).tmTheme",
+	"color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
@@ -14,10 +14,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Advanced CSV",
 		"CoffeeScript",
-		"Monokai Extended",
-		"SublimeLinter-jsxhint",
+		"SideBarGit",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -26,16 +24,8 @@
 	],
 	"index_exclude_patterns":
 	[
-		"/Users/jdean/Code/Shoptology/nlmg/api/node_modules*",
-		"/Users/jdean/Code/Shoptology/nlmg/native*",
-		"/Users/jdean/Code/Shoptology/nlmg/api--node-swagger-express-mongodb*",
-		"/Users/jdean/Code/Shoptology/nlmg/admin-mongorilla*",
-		"/Users/jdean/Code/Shoptology/nlmg/styleguide*",
-		"/Users/jdean/Code/Shoptology/nlmg/web*",
 		"node_modules*",
-		"/Users/jdean/Code/Shoptology/nlmg/design*",
-		"*.log",
-		"/Users/jdean/Code/Shoptology/nlmg/web-static*"
+		"*.log"
 	],
 	"monokai_pro_highlight_open_folders": true,
 	"monokai_pro_sidebar_font_size": 15,
@@ -44,7 +34,8 @@
 	"rulers":
 	[
 		72,
-		80
+		80,
+		110
 	],
 	"scroll_past_end": true,
 	"shift_tab_unindent": true,

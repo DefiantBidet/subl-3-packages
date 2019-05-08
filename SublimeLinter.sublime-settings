@@ -1,6 +1,14 @@
 // SublimeLinter Settings - User
 {
     "linters": {
+        "annotations": {
+            "warnings": [],
+            "errors": ["WTF", "@wtf"]
+        },
+        "csslint": {
+            "warnings": ["floats", "important"],
+            "errors": ["empty-rules", "import-ie-limit"]
+        },
         "eslint": {
             "args": [
                 "--ext=.js"
