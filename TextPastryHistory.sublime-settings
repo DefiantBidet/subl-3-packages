@@ -726,6 +726,20 @@
 			{
 				"args":
 				{
+					"text": "A",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "A"
+			},
+			"key": "7fc56270e7a70fa81a5935b72eacbe29",
+			"label": "A"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "%s",
 					"threshold": 3
 				},
@@ -963,413 +977,111 @@
 			{
 				"args":
 				{
-					"text": "AAAA BBBBB CCCC",
+					"text": "cyan yellow",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "AAAA BBBBB CCCC"
+				"text": "cyan yellow"
 			},
-			"key": "14116905709aaa15d23fe101b2977632",
-			"label": "AAAA BBBBB CCCC"
+			"key": "45935e89ac739493a18525e4c0038db4",
+			"label": "cyan yellow"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"stop": "4"
-				},
-				"command": "text_pastry_range",
-				"text": "range 4"
-			},
-			"key": "f0d4c48f4ff329c836a0542e5e36bbaa",
-			"label": "range 4"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "Accepted Declined",
+					"text": "requestMock responseMock",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Accepted Declined"
+				"text": "requestMock responseMock"
 			},
-			"key": "5c86e608ea85e1eb16dafa6a696f2a82",
-			"label": "Accepted Declined"
+			"key": "0644fb3102e7202c3a2af41c7d192aac",
+			"label": "requestMock responseMock"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"context": "selection",
-					"operator": null,
-					"pattern": "Accepted Rejected"
-				},
-				"command": "text_pastry_modify_selection",
-				"text": "filter Accepted Rejected"
-			},
-			"key": "1c03f1c55927c8eda069ac4f48e192f2",
-			"label": "filter Accepted Rejected"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "Accepted\tRejected",
+					"text": "true false",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Accepted\tRejected"
+				"text": "true false"
 			},
-			"key": "ea7712b764af9298434c217357508191",
-			"label": "Accepted\tRejected"
+			"key": "faddaebe9970aab800fb829bebbeddf8",
+			"label": "true false"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "css fonts imgs",
+					"text": "h, v",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "css fonts imgs"
+				"text": "h, v"
 			},
-			"key": "5b7b9b923a4a6079f25286899179fa4c",
-			"label": "css fonts imgs"
+			"key": "7d5d3fe863420ac0cbf3a8b25d8a7555",
+			"label": "h, v"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "styles fonts images",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "styles fonts images"
-			},
-			"key": "4c91f3b037ba366b4b2cd999e5692fd5",
-			"label": "styles fonts images"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "b",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "b"
-			},
-			"key": "92eb5ffee6ae2fec3ad71c777531578f",
-			"label": "b"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "bcd",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "bcd"
-			},
-			"key": "d4b7c284882ca9e208bb65e8abd5f4c8",
-			"label": "bcd"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "b c d",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "b c d"
-			},
-			"key": "ea67af992b577df475a3975dc8a88ed3",
-			"label": "b c d"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "100"
+					"text": "1, 16"
 				},
 				"command": "text_pastry_step",
-				"text": "100"
+				"text": "1, 16"
 			},
-			"key": "f899139df5e1059396431415e770c6dd",
-			"label": "100"
+			"key": "8763d5c3dd4d88c732417a606c4650ab",
+			"label": "1, 16"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port",
+					"text": "isString isFunction",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port"
+				"text": "isString isFunction"
 			},
-			"key": "41eee45fc2acf731f6642808f616d2a1",
-			"label": "Rendezvous_Host Rendezvous_Port Zodiac_Host Zodiac_Port"
+			"key": "95fb2fd0ad67c113aa96382608ca374b",
+			"label": "isString isFunction"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "installation running notes",
+					"text": "A B C D",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "installation running notes"
+				"text": "A B C D"
 			},
-			"key": "077a031d0805bdff065feb7baf91f7d1",
-			"label": "installation running notes"
+			"key": "69a6611cfa84065caad71f79c747390e",
+			"label": "A B C D"
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "age zipCode income",
+					"text": "i j k l",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "age zipCode income"
+				"text": "i j k l"
 			},
-			"key": "a68bcacabe62eea6728915bb8b6b5a8c",
-			"label": "age zipCode income"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "11"
-				},
-				"command": "text_pastry_step",
-				"text": "11"
-			},
-			"key": "6512bd43d9caa6e02c990b0a82652dca",
-			"label": "11"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "high low",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "high low"
-			},
-			"key": "941736ca0054e9ac7cb156604e202062",
-			"label": "high low"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "4"
-				},
-				"command": "text_pastry_step",
-				"text": "4"
-			},
-			"key": "a87ff679a2f3e71d9181a67b7542122c",
-			"label": "4"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "suspect session",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "suspect session"
-			},
-			"key": "a54955d6d0fada11a3baecb280741928",
-			"label": "suspect session"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "-top -bottom",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "-top -bottom"
-			},
-			"key": "2ed5e35ab4d975ba07e396689f942643",
-			"label": "-top -bottom"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "base secondary",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "base secondary"
-			},
-			"key": "c8bee37127d0bf8cf6fa79875d68a875",
-			"label": "base secondary"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "primary secondary tertiary",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "primary secondary tertiary"
-			},
-			"key": "b853f280d58221970186e6499ebb1076",
-			"label": "primary secondary tertiary"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "bar baz bip bop",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "bar baz bip bop"
-			},
-			"key": "b60b16af5d824693fb17948566ee6328",
-			"label": "bar baz bip bop"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "FirstName LastName Email Phone",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "FirstName LastName Email Phone"
-			},
-			"key": "466b6e04dc6c0a5b6ca60ea1af34edc0",
-			"label": "FirstName LastName Email Phone"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "send send send connect",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "send send send connect"
-			},
-			"key": "479b6e20899ef04395ee27dd0bf32f31",
-			"label": "send send send connect"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "A",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "A"
-			},
-			"key": "7fc56270e7a70fa81a5935b72eacbe29",
-			"label": "A"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "60 60 60 23"
-				},
-				"command": "text_pastry_step",
-				"text": "60 60 60 23"
-			},
-			"key": "b7375dd91b3ee2c9cce678eeb6a38135",
-			"label": "60 60 60 23"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "60, 60, 60, 23"
-				},
-				"command": "text_pastry_step",
-				"text": "60, 60, 60, 23"
-			},
-			"key": "cb0bf64412225650d1611807fb1843f8",
-			"label": "60, 60, 60, 23"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "unset none",
-					"threshold": 3
-				},
-				"command": "text_pastry_insert_text",
-				"text": "unset none"
-			},
-			"key": "0baf84bac21e17dd0b72aa018926afbd",
-			"label": "unset none"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "4 4 4 3"
-				},
-				"command": "text_pastry_step",
-				"text": "4 4 4 3"
-			},
-			"key": "45c3d980b65ae753e1ef33944a6e6fe7",
-			"label": "4 4 4 3"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "4,4,4,3"
-				},
-				"command": "text_pastry_step",
-				"text": "4,4,4,3"
-			},
-			"key": "f084cda7fb744f1d2a5ef83d264da9ef",
-			"label": "4,4,4,3"
+			"key": "9026f6c6b59d31f79f8b1c3958d77542",
+			"label": "i j k l"
 		},
 		{
 			"data":
@@ -1402,24 +1114,38 @@
 			{
 				"args":
 				{
-					"text": "true|false",
+					"text": "name size",
 					"threshold": 3
 				},
 				"command": "text_pastry_insert_text",
-				"text": "true|false"
+				"text": "name size"
 			},
-			"key": "215c2d45b491f5c815ace782ce450fdf",
-			"label": "true|false"
+			"key": "420ef52c0304a32dff552a210f448d01",
+			"label": "name size"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "i j k",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "i j k"
+			},
+			"key": "5193f7af6f8fc6f027bce746fda5cc54",
+			"label": "i j k"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "true|false",
+			"text": "i j k",
 			"threshold": 3
 		},
 		"command": "text_pastry_insert_text",
-		"text": "true|false"
+		"text": "i j k"
 	}
 }

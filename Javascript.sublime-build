@@ -1,0 +1,10 @@
+{
+    "cmd": ["node", "$file"],
+    "selector": "source.js"
+}
+/*
+{
+    "cmd": ["node", "inspect", "$file"],
+    "selector": "source.js"
+}
+*/

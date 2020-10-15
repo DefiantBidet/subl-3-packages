@@ -16,8 +16,6 @@
 <key>background</key>
 <string>#282a3a</string>
 <key>foreground</key>
-<string>#eaf2f1</string>
-<key>invisibles</key>
 <string>#eaf2f13f</string>
 <key>caret</key>
 <string>#eaf2f1</string>
@@ -55,7 +53,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>comment, comment keyword, comment markup.underline.link, comment string, comment punctuation.definition, comment punctuation, comment text</string>
+<string>comment, comment keyword, comment markup.underline.link, comment string, comment punctuation.definition, comment punctuation</string>
 <key>settings</key>
 <dict>
 <key>fontStyle</key>
@@ -129,29 +127,11 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>constant.other.character-class.escape</string>
-<key>settings</key>
-<dict>
-<key>foreground</key>
-<string>#c39ac9</string>
-</dict>
-</dict>
-<dict>
-<key>scope</key>
 <string>constant.other.key</string>
 <key>settings</key>
 <dict>
 <key>foreground</key>
 <string>#c39ac9</string>
-</dict>
-</dict>
-<dict>
-<key>scope</key>
-<string>constant.other.symbol</string>
-<key>settings</key>
-<dict>
-<key>foreground</key>
-<string>#ff9b5e</string>
 </dict>
 </dict>
 <dict>
@@ -228,15 +208,6 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>entity.name.constant</string>
-<key>settings</key>
-<dict>
-<key>foreground</key>
-<string>#c39ac9</string>
-</dict>
-</dict>
-<dict>
-<key>scope</key>
 <string>entity.name.namespace</string>
 <key>settings</key>
 <dict>
@@ -266,7 +237,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>entity.name.tag, entity.name.tag.js.jsx support.class.component.js.jsx</string>
+<string>entity.name.tag</string>
 <key>settings</key>
 <dict>
 <key>foreground</key>
@@ -304,7 +275,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>entity.other.attribute-name.pseudo-class.css entity.other.pseudo-class.css</string>
+<string>entity.other.attribute-name.pseudo-class.css</string>
 <key>settings</key>
 <dict>
 <key>fontStyle</key>
@@ -639,7 +610,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>punctuation.template-string.element.begin, punctuation.template-string.element.end, punctuation.definition.string.template.begin, punctuation.definition.string.template.end, string.quoted.template punctuation.definition.string.begin, string.quoted.template punctuation.definition.string.end</string>
+<string>punctuation.template-string.element.begin, punctuation.template-string.element.end, string.quoted.template punctuation.definition.string.begin, string.quoted.template punctuation.definition.string.end</string>
 <key>settings</key>
 <dict>
 <key>foreground</key>
@@ -666,7 +637,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>source.scss, source.sass</string>
+<string>source.scss</string>
 <key>settings</key>
 <dict>
 <key>foreground</key>
@@ -675,7 +646,7 @@
 </dict>
 <dict>
 <key>scope</key>
-<string>source.sass variable.other, source.sass variable.sass, source.scss variable.other, source.scss variable.scss, source.scss variable.sass, source.css variable.other, source.css variable.scss, source.less variable.other, source.less variable.other.less, source.less variable.declaration.less</string>
+<string>source.scss variable.other, source.scss variable.scss, source.css variable.other, source.css variable.scss, source.less variable.other, source.less variable.other.less, source.less variable.declaration.less</string>
 <key>settings</key>
 <dict>
 <key>fontStyle</key>
@@ -814,15 +785,6 @@
 <dict>
 <key>foreground</key>
 <string>#9cd1bb</string>
-</dict>
-</dict>
-<dict>
-<key>scope</key>
-<string>support.constant.handlebars</string>
-<key>settings</key>
-<dict>
-<key>foreground</key>
-<string>#888d94</string>
 </dict>
 </dict>
 <dict>
