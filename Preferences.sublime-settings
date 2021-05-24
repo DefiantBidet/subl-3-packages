@@ -1,57 +1,74 @@
 {
-    "always_show_minimap_viewport": true,
-    "auto_complete_commit_on_tab": true,
-    "auto_complete_with_fields": true,
-    "bold_folder_labels": true,
-    "caret_style": "smooth",
-    "color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Octagon) (SL).tmTheme",
-    "draw_minimap_border": true,
-    "draw_white_space": "all",
-    "ensure_newline_at_eof_on_save": true,
-    "font_face": "Inconsolata",
-    "font_size": 17,
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
-        "Advanced CSV",
-        "Monokai Extended",
-        "nginx",
-        "SideBarEnhancements",
-        "SublimeLinter-contrib-scss-lint",
-        "SublimeLinter-jsxhint",
-        "Vintage",
-        "Rust"
-    ],
-    "indent_guide_options":
-    [
-        "draw_active"
-    ],
-    "index_exclude_patterns":
-    [
-        "/Users/jdean/Code/Shoptology/nlmg/api/node_modules*",
-        "/Users/jdean/Code/Shoptology/nlmg/native*",
-        "/Users/jdean/Code/Shoptology/nlmg/api--node-swagger-express-mongodb*",
-        "/Users/jdean/Code/Shoptology/nlmg/admin-mongorilla*",
-        "/Users/jdean/Code/Shoptology/nlmg/styleguide*",
-        "/Users/jdean/Code/Shoptology/nlmg/web*",
-        "node_modules*",
-        "/Users/jdean/Code/Shoptology/nlmg/design*",
-        "*.log",
-        "/Users/jdean/Code/Shoptology/nlmg/web-static*"
-    ],
-    "monokai_pro_highlight_open_folders": true,
-    "monokai_pro_sidebar_font_size": 15,
-    "monokai_pro_sidebar_row_padding": 2,
-    "monokai_pro_small_scrollbar": true,
-    "rulers":
-    [
-        72,
-        80,
-        120
-    ],
-    "scroll_past_end": true,
-    "shift_tab_unindent": true,
-    "theme": "Monokai Pro (Filter Octagon).sublime-theme",
-    "trim_trailing_white_space_on_save": true
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Octagon) (SL).tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Inconsolata",
+	"font_size": 17,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Advanced CSV",
+		"Emmet",
+		"nginx",
+		"Rust",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-jsxhint",
+		"Vintage",
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"/Users/jdean/Code/Shoptology/nlmg/api/node_modules*",
+		"/Users/jdean/Code/Shoptology/nlmg/native*",
+		"/Users/jdean/Code/Shoptology/nlmg/api--node-swagger-express-mongodb*",
+		"/Users/jdean/Code/Shoptology/nlmg/admin-mongorilla*",
+		"/Users/jdean/Code/Shoptology/nlmg/styleguide*",
+		"/Users/jdean/Code/Shoptology/nlmg/web*",
+		"node_modules*",
+		"/Users/jdean/Code/Shoptology/nlmg/design*",
+		"*.log",
+		"/Users/jdean/Code/Shoptology/nlmg/web-static*"
+	],
+	"monokai_pro_highlight_open_folders": true,
+	"monokai_pro_sidebar_font_size": 15,
+	"monokai_pro_sidebar_row_padding": 2,
+	"monokai_pro_small_scrollbar": true,
+	"rulers":
+	[
+		72,
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	/*"auto_complete": true,*/
+	/*"auto_complete_triggers":
+	[
+		{
+			"characters": ".(){}[],'\"=<>/\\+-|&*%=$#@! ",
+			"selector": "source.python"
+		},
+		{
+			"characters": ":.(){}[],'\"=<>/\\+-|&*%=$#@! ",
+			"selector": "source & - source.python - constant.numeric"
+		},
+		{
+			"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text"
+		}
+	],*/
 }

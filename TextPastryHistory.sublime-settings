@@ -1088,32 +1088,6 @@
 			{
 				"args":
 				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "0"
-				},
-				"command": "text_pastry_step",
-				"text": "0"
-			},
-			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "name size",
 					"threshold": 3
 				},
@@ -1136,16 +1110,54 @@
 			},
 			"key": "5193f7af6f8fc6f027bce746fda5cc54",
 			"label": "i j k"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "6"
+				},
+				"command": "text_pastry_step",
+				"text": "6"
+			},
+			"key": "1679091c5a880faf6fb5e6087eb1b2dc",
+			"label": "6"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "i j k",
-			"threshold": 3
+			"text": "1"
 		},
-		"command": "text_pastry_insert_text",
-		"text": "i j k"
+		"command": "text_pastry_step",
+		"text": "1"
 	}
 }
