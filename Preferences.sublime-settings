@@ -16,8 +16,12 @@
 	[
 		"Advanced CSV",
 		"Emmet",
+		"LSP",
+		"LSP-typescript",
 		"nginx",
+		"Pretty JSON",
 		"Rust",
+		"Rust Enhanced",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter-contrib-scss-lint",
@@ -71,4 +75,20 @@
 			"selector": "text"
 		}
 	],*/
+	"auto_complete": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".(){}[],'\"=<>/\\+-|&*%=$#@! ",
+			"selector": "source.python",
+		},
+		{
+			"characters": ":.(){}[],'\"=<>/\\+-|&*%=$#@! ",
+			"selector": "source & - source.python - constant.numeric",
+		},
+		{
+			"characters": " qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
+			"selector": "text",
+		}
+	],
 }
