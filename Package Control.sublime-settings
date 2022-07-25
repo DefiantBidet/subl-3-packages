@@ -2,10 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"LSP",
-		"LSP-typescript",
-		"Pretty JSON",
-		"Rust Enhanced",
 	],
 	"installed_packages":
 	[
@@ -38,6 +34,7 @@
 		"HTMLBeautify",
 		"Indent XML",
 		"INI",
+		"JSONLint",
 		"JsPrettier",
 		"JSX",
 		"LoremIpsum",

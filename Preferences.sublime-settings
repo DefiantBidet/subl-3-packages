@@ -9,23 +9,11 @@
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Inconsolata",
-	"font_size": 17,
+	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Advanced CSV",
-		"Emmet",
-		"LSP",
-		"LSP-typescript",
-		"nginx",
-		"Pretty JSON",
-		"Rust",
-		"Rust Enhanced",
-		"Sass",
-		"SideBarEnhancements",
-		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-jsxhint",
 		"Vintage",
 	],
 	"indent_guide_options":
@@ -91,4 +79,5 @@
 			"selector": "text",
 		}
 	],
+	"update_check": true,
 }

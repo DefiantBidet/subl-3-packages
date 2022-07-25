@@ -6,13 +6,13 @@
 			{
 				"args":
 				{
-					"text": "0 1"
+					"text": "0 1",
 				},
 				"command": "text_pastry_step",
-				"text": "0 1"
+				"text": "0 1",
 			},
 			"key": "27a3f1a3d555387ab7bf589ca716c295",
-			"label": "0 1"
+			"label": "0 1",
 		},
 		{
 			"data":
@@ -20,13 +20,13 @@
 				"args":
 				{
 					"text": "queue-0 1",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "queue-0 1"
+				"text": "queue-0 1",
 			},
 			"key": "a62844e6574ac72381c839801b443289",
-			"label": "queue-0 1"
+			"label": "queue-0 1",
 		},
 		{
 			"data":
@@ -34,13 +34,13 @@
 				"args":
 				{
 					"text": "queue-1",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "queue-1"
+				"text": "queue-1",
 			},
 			"key": "e3c0ff0096fbdf70b7bf24e0e5e49643",
-			"label": "queue-1"
+			"label": "queue-1",
 		},
 		{
 			"data":
@@ -48,13 +48,13 @@
 				"args":
 				{
 					"text": "cloud-1",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "cloud-1"
+				"text": "cloud-1",
 			},
 			"key": "e2b0368bfd227876326f655397486040",
-			"label": "cloud-1"
+			"label": "cloud-1",
 		},
 		{
 			"data":
@@ -62,13 +62,13 @@
 				"args":
 				{
 					"text": "lessons-bubble-0",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "lessons-bubble-0"
+				"text": "lessons-bubble-0",
 			},
 			"key": "0531d2c52575f26df04cb34aacb97f1e",
-			"label": "lessons-bubble-0"
+			"label": "lessons-bubble-0",
 		},
 		{
 			"data":
@@ -76,13 +76,13 @@
 				"args":
 				{
 					"text": "lessons-bubble-1",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "lessons-bubble-1"
+				"text": "lessons-bubble-1",
 			},
 			"key": "0d7f8b3053b7f57fd401df677e5afadb",
-			"label": "lessons-bubble-1"
+			"label": "lessons-bubble-1",
 		},
 		{
 			"data":
@@ -90,13 +90,13 @@
 				"args":
 				{
 					"text": "\\i(a,c)",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "\\i(a,c)"
+				"text": "\\i(a,c)",
 			},
 			"key": "4982ebfaa0ba09051a221464757fec3f",
-			"label": "\\i(a,c)"
+			"label": "\\i(a,c)",
 		},
 		{
 			"data":
@@ -104,13 +104,13 @@
 				"args":
 				{
 					"text": "abc",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "abc"
+				"text": "abc",
 			},
 			"key": "900150983cd24fb0d6963f7d28e17f72",
-			"label": "abc"
+			"label": "abc",
 		},
 		{
 			"data":
@@ -118,13 +118,13 @@
 				"args":
 				{
 					"text": "a,b,c",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "a,b,c"
+				"text": "a,b,c",
 			},
 			"key": "a44c56c8177e32d3613988f4dba7962e",
-			"label": "a,b,c"
+			"label": "a,b,c",
 		},
 		{
 			"data":
@@ -132,65 +132,65 @@
 				"args":
 				{
 					"text": "/ia",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "/ia"
+				"text": "/ia",
 			},
 			"key": "c7c79d281a2b61f6a7584117d87e9de5",
-			"label": "/ia"
+			"label": "/ia",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "111"
+					"text": "111",
 				},
 				"command": "text_pastry_step",
-				"text": "111"
+				"text": "111",
 			},
 			"key": "698d51a19d8a121ce581499d7b701668",
-			"label": "111"
+			"label": "111",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "09"
+					"text": "09",
 				},
 				"command": "text_pastry_step",
-				"text": "09"
+				"text": "09",
 			},
 			"key": "0a8005f5594bd67041f88c6196192646",
-			"label": "09"
+			"label": "09",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "01"
+					"text": "01",
 				},
 				"command": "text_pastry_step",
-				"text": "01"
+				"text": "01",
 			},
 			"key": "96a3be3cf272e017046d1b2674a52bd3",
-			"label": "01"
+			"label": "01",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "3"
+					"text": "3",
 				},
 				"command": "text_pastry_step",
-				"text": "3"
+				"text": "3",
 			},
 			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
-			"label": "3"
+			"label": "3",
 		},
 		{
 			"data":
@@ -198,13 +198,13 @@
 				"args":
 				{
 					"text": "Foo, Bar, Baz",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Foo, Bar, Baz"
+				"text": "Foo, Bar, Baz",
 			},
 			"key": "0acff5fcfb36945deb3a71fff679ba6e",
-			"label": "Foo, Bar, Baz"
+			"label": "Foo, Bar, Baz",
 		},
 		{
 			"data":
@@ -212,13 +212,13 @@
 				"args":
 				{
 					"text": "Foo Bar Baz ?!??!",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Foo Bar Baz ?!??!"
+				"text": "Foo Bar Baz ?!??!",
 			},
 			"key": "521b43b2e605f4091b0cf9737e4ee105",
-			"label": "Foo Bar Baz ?!??!"
+			"label": "Foo Bar Baz ?!??!",
 		},
 		{
 			"data":
@@ -226,13 +226,13 @@
 				"args":
 				{
 					"text": "foo bar baz",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "foo bar baz"
+				"text": "foo bar baz",
 			},
 			"key": "ab07acbb1e496801937adfa772424bf7",
-			"label": "foo bar baz"
+			"label": "foo bar baz",
 		},
 		{
 			"data":
@@ -240,13 +240,13 @@
 				"args":
 				{
 					"text": "main foo bar baz 404",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "main foo bar baz 404"
+				"text": "main foo bar baz 404",
 			},
 			"key": "78955a1dc9680b7d3c699e3bf7912aeb",
-			"label": "main foo bar baz 404"
+			"label": "main foo bar baz 404",
 		},
 		{
 			"data":
@@ -254,13 +254,13 @@
 				"args":
 				{
 					"text": "Percolates Yes|No",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Percolates Yes|No"
+				"text": "Percolates Yes|No",
 			},
 			"key": "d9a306c46e15296845f7ae152ab3f99f",
-			"label": "Percolates Yes|No"
+			"label": "Percolates Yes|No",
 		},
 		{
 			"data":
@@ -268,13 +268,13 @@
 				"args":
 				{
 					"text": "Yes, No",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Yes, No"
+				"text": "Yes, No",
 			},
 			"key": "12a9ae9a8a6ed0454e7c9db6bb359410",
-			"label": "Yes, No"
+			"label": "Yes, No",
 		},
 		{
 			"data":
@@ -282,13 +282,13 @@
 				"args":
 				{
 					"text": "yes no",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "yes no"
+				"text": "yes no",
 			},
 			"key": "45ae1a4ce1e8b30b8b1c907dc68a5691",
-			"label": "yes no"
+			"label": "yes no",
 		},
 		{
 			"data":
@@ -296,13 +296,13 @@
 				"args":
 				{
 					"text": "Yes|No",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Yes|No"
+				"text": "Yes|No",
 			},
 			"key": "88169a273d258709d2d239977c4b36b9",
-			"label": "Yes|No"
+			"label": "Yes|No",
 		},
 		{
 			"data":
@@ -310,26 +310,26 @@
 				"args":
 				{
 					"text": "Yes No",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Yes No"
+				"text": "Yes No",
 			},
 			"key": "f86237f8b4cf1454d46afe0d2a498163",
-			"label": "Yes No"
+			"label": "Yes No",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "275x 255x"
+					"text": "275x 255x",
 				},
 				"command": "text_pastry_step",
-				"text": "275x 255x"
+				"text": "275x 255x",
 			},
 			"key": "b14d94a886a0588b73eb8390b0b3971d",
-			"label": "275x 255x"
+			"label": "275x 255x",
 		},
 		{
 			"data":
@@ -337,13 +337,13 @@
 				"args":
 				{
 					"text": "row column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "row column"
+				"text": "row column",
 			},
 			"key": "8f518b98475197e120adc0bd41019293",
-			"label": "row column"
+			"label": "row column",
 		},
 		{
 			"data":
@@ -351,13 +351,13 @@
 				"args":
 				{
 					"text": "row|column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "row|column"
+				"text": "row|column",
 			},
 			"key": "8048d2c922df489c5ca7892d96fc043c",
-			"label": "row|column"
+			"label": "row|column",
 		},
 		{
 			"data":
@@ -365,13 +365,13 @@
 				"args":
 				{
 					"text": "row, column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "row, column"
+				"text": "row, column",
 			},
 			"key": "80088492273b7c13d74c4d1f9630f8a0",
-			"label": "row, column"
+			"label": "row, column",
 		},
 		{
 			"data":
@@ -379,13 +379,13 @@
 				"args":
 				{
 					"text": "%s row col",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s row col"
+				"text": "%s row col",
 			},
 			"key": "30c0f37e44b9be202a08d7ccff8c2392",
-			"label": "%s row col"
+			"label": "%s row col",
 		},
 		{
 			"data":
@@ -393,13 +393,13 @@
 				"args":
 				{
 					"text": "%s row column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s row column"
+				"text": "%s row column",
 			},
 			"key": "757dfbc2e108baa91414aba54035001c",
-			"label": "%s row column"
+			"label": "%s row column",
 		},
 		{
 			"data":
@@ -407,13 +407,13 @@
 				"args":
 				{
 					"text": "%srow %scolumn",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%srow %scolumn"
+				"text": "%srow %scolumn",
 			},
 			"key": "b7881cf1f742da21c117e0cc1e310d3e",
-			"label": "%srow %scolumn"
+			"label": "%srow %scolumn",
 		},
 		{
 			"data":
@@ -421,13 +421,13 @@
 				"args":
 				{
 					"text": "%s row %s column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s row %s column"
+				"text": "%s row %s column",
 			},
 			"key": "281e58a4790b786a1413cf0c9e9b0bd3",
-			"label": "%s row %s column"
+			"label": "%s row %s column",
 		},
 		{
 			"data":
@@ -435,13 +435,13 @@
 				"args":
 				{
 					"text": "%srow column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%srow column"
+				"text": "%srow column",
 			},
 			"key": "5c8ced4032c73e20ad0a2f2f7eb1a3e4",
-			"label": "%srow column"
+			"label": "%srow column",
 		},
 		{
 			"data":
@@ -449,13 +449,13 @@
 				"args":
 				{
 					"text": "%s, row column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s, row column"
+				"text": "%s, row column",
 			},
 			"key": "05ec8a5ee5ea4fc71d429d7acca2714a",
-			"label": "%s, row column"
+			"label": "%s, row column",
 		},
 		{
 			"data":
@@ -463,13 +463,13 @@
 				"args":
 				{
 					"text": "row",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "row"
+				"text": "row",
 			},
 			"key": "f1965a857bc285d26fe22023aa5ab50d",
-			"label": "row"
+			"label": "row",
 		},
 		{
 			"data":
@@ -477,13 +477,13 @@
 				"args":
 				{
 					"text": "column",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "column"
+				"text": "column",
 			},
 			"key": "1afd32818d1c9525f82aff4c09efd254",
-			"label": "column"
+			"label": "column",
 		},
 		{
 			"data":
@@ -492,13 +492,13 @@
 				{
 					"clipboard": true,
 					"regex": true,
-					"separator": "co"
+					"separator": "co",
 				},
 				"command": "text_pastry_insert_text",
-				"text": "r co"
+				"text": "r co",
 			},
 			"key": "5a16d77078813a6a2b2aa707d7a71ef2",
-			"label": "r co"
+			"label": "r co",
 		},
 		{
 			"data":
@@ -507,13 +507,13 @@
 				{
 					"clipboard": true,
 					"regex": true,
-					"separator": "c"
+					"separator": "c",
 				},
 				"command": "text_pastry_insert_text",
-				"text": "r c"
+				"text": "r c",
 			},
 			"key": "552490b408288fabe37a8de8ac1dcb87",
-			"label": "r c"
+			"label": "r c",
 		},
 		{
 			"data":
@@ -521,13 +521,13 @@
 				"args":
 				{
 					"text": "n c",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "n c"
+				"text": "n c",
 			},
 			"key": "0ab1e259050216f188df858781cfc5dd",
-			"label": "n c"
+			"label": "n c",
 		},
 		{
 			"data":
@@ -535,13 +535,13 @@
 				"args":
 				{
 					"text": "\n'row' 'col'",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "\n'row' 'col'"
+				"text": "\n'row' 'col'",
 			},
 			"key": "4d0635dc4b332f62511342abde276037",
-			"label": "\n'row' 'col'"
+			"label": "\n'row' 'col'",
 		},
 		{
 			"data":
@@ -549,13 +549,13 @@
 				"args":
 				{
 					"text": "High Low",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "High Low"
+				"text": "High Low",
 			},
 			"key": "daa0579562fe8a021f53ae41e81b29f3",
-			"label": "High Low"
+			"label": "High Low",
 		},
 		{
 			"data":
@@ -563,13 +563,13 @@
 				"args":
 				{
 					"text": "%s upper lower",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s upper lower"
+				"text": "%s upper lower",
 			},
 			"key": "b162b69fed083328f9872ae12e907b21",
-			"label": "%s upper lower"
+			"label": "%s upper lower",
 		},
 		{
 			"data":
@@ -577,13 +577,13 @@
 				"args":
 				{
 					"text": "Hi Lo",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Hi Lo"
+				"text": "Hi Lo",
 			},
 			"key": "c3d9db6371b1fa159c26de9bb0e2b128",
-			"label": "Hi Lo"
+			"label": "Hi Lo",
 		},
 		{
 			"data":
@@ -591,13 +591,13 @@
 				"args":
 				{
 					"text": " Min Max",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": " Min Max"
+				"text": " Min Max",
 			},
 			"key": "79b10b928d847b909f68fd3864712e11",
-			"label": " Min Max"
+			"label": " Min Max",
 		},
 		{
 			"data":
@@ -605,65 +605,65 @@
 				"args":
 				{
 					"text": "Min Max",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "Min Max"
+				"text": "Min Max",
 			},
 			"key": "ad02816aeb9ce81d71e08df202aea6e5",
-			"label": "Min Max"
+			"label": "Min Max",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "0 6 0 6 0 6"
+					"text": "0 6 0 6 0 6",
 				},
 				"command": "text_pastry_step",
-				"text": "0 6 0 6 0 6"
+				"text": "0 6 0 6 0 6",
 			},
 			"key": "fddaf5ac0924053985ce032e92a672b5",
-			"label": "0 6 0 6 0 6"
+			"label": "0 6 0 6 0 6",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "0 6"
+					"text": "0 6",
 				},
 				"command": "text_pastry_step",
-				"text": "0 6"
+				"text": "0 6",
 			},
 			"key": "ce85cff83007a3da6e105fcc033035b0",
-			"label": "0 6"
+			"label": "0 6",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "0 6 0"
+					"text": "0 6 0",
 				},
 				"command": "text_pastry_step",
-				"text": "0 6 0"
+				"text": "0 6 0",
 			},
 			"key": "7d6f74ec7be8774f3c3ac10f51f33d19",
-			"label": "0 6 0"
+			"label": "0 6 0",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "2"
+					"text": "2",
 				},
 				"command": "text_pastry_step",
-				"text": "2"
+				"text": "2",
 			},
 			"key": "c81e728d9d4c2f636f067f89cc14862c",
-			"label": "2"
+			"label": "2",
 		},
 		{
 			"data":
@@ -671,13 +671,13 @@
 				"args":
 				{
 					"text": "front end",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "front end"
+				"text": "front end",
 			},
 			"key": "a8feb51949b79ed25e2c9f6835f54977",
-			"label": "front end"
+			"label": "front end",
 		},
 		{
 			"data":
@@ -685,13 +685,13 @@
 				"args":
 				{
 					"text": "%s front %s end",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s front %s end"
+				"text": "%s front %s end",
 			},
 			"key": "182bfece8d81a01a80bc8be3cfdcb465",
-			"label": "%s front %s end"
+			"label": "%s front %s end",
 		},
 		{
 			"data":
@@ -699,13 +699,13 @@
 				"args":
 				{
 					"text": "first|last",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "first|last"
+				"text": "first|last",
 			},
 			"key": "2766fbff00569e95f191e37ca16cab5b",
-			"label": "first|last"
+			"label": "first|last",
 		},
 		{
 			"data":
@@ -713,13 +713,13 @@
 				"args":
 				{
 					"text": "first last",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "first last"
+				"text": "first last",
 			},
 			"key": "5f9a62683aa9c41e17a55c535181078c",
-			"label": "first last"
+			"label": "first last",
 		},
 		{
 			"data":
@@ -727,13 +727,13 @@
 				"args":
 				{
 					"text": "A",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "A"
+				"text": "A",
 			},
 			"key": "7fc56270e7a70fa81a5935b72eacbe29",
-			"label": "A"
+			"label": "A",
 		},
 		{
 			"data":
@@ -741,13 +741,13 @@
 				"args":
 				{
 					"text": "%s",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s"
+				"text": "%s",
 			},
 			"key": "1c481aa99d081c32182011a758f73d33",
-			"label": "%s"
+			"label": "%s",
 		},
 		{
 			"data":
@@ -755,13 +755,13 @@
 				"args":
 				{
 					"text": "%s A",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%s A"
+				"text": "%s A",
 			},
 			"key": "2a9f02fd03e2906a223cb9182dfb6f60",
-			"label": "%s A"
+			"label": "%s A",
 		},
 		{
 			"data":
@@ -769,13 +769,13 @@
 				"args":
 				{
 					"text": "C B A",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "C B A"
+				"text": "C B A",
 			},
 			"key": "645fdc7f7a1b75baa8851abf4c9c0a24",
-			"label": "C B A"
+			"label": "C B A",
 		},
 		{
 			"data":
@@ -783,13 +783,13 @@
 				"args":
 				{
 					"text": "A B C",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "A B C"
+				"text": "A B C",
 			},
 			"key": "0ef78513b0cb8cef12743f5aeb35f888",
-			"label": "A B C"
+			"label": "A B C",
 		},
 		{
 			"data":
@@ -797,13 +797,13 @@
 				"args":
 				{
 					"text": "x y",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "x y"
+				"text": "x y",
 			},
 			"key": "c8d1ae9296335b1cfc3d0d1b47b664a7",
-			"label": "x y"
+			"label": "x y",
 		},
 		{
 			"data":
@@ -811,13 +811,13 @@
 				"args":
 				{
 					"text": "X Y",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "X Y"
+				"text": "X Y",
 			},
 			"key": "7ed974668de91e1c5af8c06b343b508b",
-			"label": "X Y"
+			"label": "X Y",
 		},
 		{
 			"data":
@@ -825,13 +825,13 @@
 				"args":
 				{
 					"text": "xy",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "xy"
+				"text": "xy",
 			},
 			"key": "3e44107170a520582ade522fa73c1d15",
-			"label": "xy"
+			"label": "xy",
 		},
 		{
 			"data":
@@ -839,13 +839,13 @@
 				"args":
 				{
 					"text": "%sfirst secons",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "%sfirst secons"
+				"text": "%sfirst secons",
 			},
 			"key": "f4c05c6069ea6375714a33f68e6a18a1",
-			"label": "%sfirst secons"
+			"label": "%sfirst secons",
 		},
 		{
 			"data":
@@ -853,13 +853,13 @@
 				"args":
 				{
 					"text": " first second",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": " first second"
+				"text": " first second",
 			},
 			"key": "5ef1b9fcad45db20fba4de3d8acb673c",
-			"label": " first second"
+			"label": " first second",
 		},
 		{
 			"data":
@@ -867,13 +867,13 @@
 				"args":
 				{
 					"text": "first\tsecond",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "first\tsecond"
+				"text": "first\tsecond",
 			},
 			"key": "e1545f8a4f473e8a503174036ba35689",
-			"label": "first\tsecond"
+			"label": "first\tsecond",
 		},
 		{
 			"data":
@@ -881,13 +881,13 @@
 				"args":
 				{
 					"text": "a b",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "a b"
+				"text": "a b",
 			},
 			"key": "0cc9cd4dd26c5137b675a0d819cb9ab0",
-			"label": "a b"
+			"label": "a b",
 		},
 		{
 			"data":
@@ -895,13 +895,13 @@
 				"args":
 				{
 					"text": "first second",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "first second"
+				"text": "first second",
 			},
 			"key": "2059640c02c5a16a79564ac0b9c6babd",
-			"label": "first second"
+			"label": "first second",
 		},
 		{
 			"data":
@@ -909,13 +909,13 @@
 				"args":
 				{
 					"text": "p1",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "p1"
+				"text": "p1",
 			},
 			"key": "ec6ef230f1828039ee794566b9c58adc",
-			"label": "p1"
+			"label": "p1",
 		},
 		{
 			"data":
@@ -923,13 +923,13 @@
 				"args":
 				{
 					"text": "row col",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "row col"
+				"text": "row col",
 			},
 			"key": "e1c16107e6c474df1b31c6ae69aae5ea",
-			"label": "row col"
+			"label": "row col",
 		},
 		{
 			"data":
@@ -937,26 +937,26 @@
 				"args":
 				{
 					"text": "red yellow green",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "red yellow green"
+				"text": "red yellow green",
 			},
 			"key": "6a062075b191bc01fbf3afbba43fb18a",
-			"label": "red yellow green"
+			"label": "red yellow green",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "-1"
+					"text": "-1",
 				},
 				"command": "text_pastry_step",
-				"text": "-1"
+				"text": "-1",
 			},
 			"key": "6bb61e3b7bce0931da574d19d1d82c88",
-			"label": "-1"
+			"label": "-1",
 		},
 		{
 			"data":
@@ -964,13 +964,13 @@
 				"args":
 				{
 					"text": "a",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "a"
+				"text": "a",
 			},
 			"key": "0cc175b9c0f1b6a831c399e269772661",
-			"label": "a"
+			"label": "a",
 		},
 		{
 			"data":
@@ -978,13 +978,13 @@
 				"args":
 				{
 					"text": "cyan yellow",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "cyan yellow"
+				"text": "cyan yellow",
 			},
 			"key": "45935e89ac739493a18525e4c0038db4",
-			"label": "cyan yellow"
+			"label": "cyan yellow",
 		},
 		{
 			"data":
@@ -992,13 +992,13 @@
 				"args":
 				{
 					"text": "requestMock responseMock",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "requestMock responseMock"
+				"text": "requestMock responseMock",
 			},
 			"key": "0644fb3102e7202c3a2af41c7d192aac",
-			"label": "requestMock responseMock"
+			"label": "requestMock responseMock",
 		},
 		{
 			"data":
@@ -1006,13 +1006,13 @@
 				"args":
 				{
 					"text": "true false",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "true false"
+				"text": "true false",
 			},
 			"key": "faddaebe9970aab800fb829bebbeddf8",
-			"label": "true false"
+			"label": "true false",
 		},
 		{
 			"data":
@@ -1020,26 +1020,26 @@
 				"args":
 				{
 					"text": "h, v",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "h, v"
+				"text": "h, v",
 			},
 			"key": "7d5d3fe863420ac0cbf3a8b25d8a7555",
-			"label": "h, v"
+			"label": "h, v",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "1, 16"
+					"text": "1, 16",
 				},
 				"command": "text_pastry_step",
-				"text": "1, 16"
+				"text": "1, 16",
 			},
 			"key": "8763d5c3dd4d88c732417a606c4650ab",
-			"label": "1, 16"
+			"label": "1, 16",
 		},
 		{
 			"data":
@@ -1047,13 +1047,13 @@
 				"args":
 				{
 					"text": "isString isFunction",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "isString isFunction"
+				"text": "isString isFunction",
 			},
 			"key": "95fb2fd0ad67c113aa96382608ca374b",
-			"label": "isString isFunction"
+			"label": "isString isFunction",
 		},
 		{
 			"data":
@@ -1061,13 +1061,13 @@
 				"args":
 				{
 					"text": "A B C D",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "A B C D"
+				"text": "A B C D",
 			},
 			"key": "69a6611cfa84065caad71f79c747390e",
-			"label": "A B C D"
+			"label": "A B C D",
 		},
 		{
 			"data":
@@ -1075,13 +1075,13 @@
 				"args":
 				{
 					"text": "i j k l",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "i j k l"
+				"text": "i j k l",
 			},
 			"key": "9026f6c6b59d31f79f8b1c3958d77542",
-			"label": "i j k l"
+			"label": "i j k l",
 		},
 		{
 			"data":
@@ -1089,13 +1089,13 @@
 				"args":
 				{
 					"text": "name size",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "name size"
+				"text": "name size",
 			},
 			"key": "420ef52c0304a32dff552a210f448d01",
-			"label": "name size"
+			"label": "name size",
 		},
 		{
 			"data":
@@ -1103,61 +1103,77 @@
 				"args":
 				{
 					"text": "i j k",
-					"threshold": 3
+					"threshold": 3,
 				},
 				"command": "text_pastry_insert_text",
-				"text": "i j k"
+				"text": "i j k",
 			},
 			"key": "5193f7af6f8fc6f027bce746fda5cc54",
-			"label": "i j k"
+			"label": "i j k",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "6"
+					"text": "6",
 				},
 				"command": "text_pastry_step",
-				"text": "6"
+				"text": "6",
 			},
 			"key": "1679091c5a880faf6fb5e6087eb1b2dc",
-			"label": "6"
+			"label": "6",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "0"
+					"text": "0",
 				},
 				"command": "text_pastry_step",
-				"text": "0"
+				"text": "0",
 			},
 			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
+			"label": "0",
 		},
 		{
 			"data":
 			{
 				"args":
 				{
-					"text": "1"
+					"text": "D S",
+					"threshold": 3,
+				},
+				"command": "text_pastry_insert_text",
+				"text": "D S",
+			},
+			"key": "bffa3ba79a9b063c267e3248046fa270",
+			"label": "D S",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1",
+					/*"threshold": 3*/
 				},
 				"command": "text_pastry_step",
-				"text": "1"
+				"text": "1",
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		}
+			"label": "1",
+		},
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "1"
+			"text": "1",
+			/*"threshold": 3,*/
 		},
 		"command": "text_pastry_step",
-		"text": "1"
-	}
+		"text": "1",
+	},
 }
